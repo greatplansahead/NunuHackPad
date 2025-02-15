@@ -5,4 +5,6 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "Alps_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/Alps_Only.pretty")(options "")(descr ""))
+  (lib (name "OPL_Switch")(type "KiCad")(uri "C:/Users/tynaa/Downloads/OPL_Kicad_Library-master (1)/OPL_Kicad_Library-master/Seeed Fusion Component Libraries for KiCad/OPL_Switch.pretty")(options "")(descr ""))
+  (lib (name "Seeed Fusion Component Libraries for KiCad")(type "KiCad")(uri "C:/Users/tynaa/Downloads/OPL_Kicad_Library-master (1)/OPL_Kicad_Library-master/Seeed Fusion Component Libraries for KiCad")(options "")(descr ""))
 )

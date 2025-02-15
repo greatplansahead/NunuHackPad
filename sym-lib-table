@@ -4,4 +4,5 @@
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "SEEED-XIAO")(type "KiCad")(uri "C:/Users/tynaa/Downloads/Seeed-XIAO-Libraries (1)/SEEED-XIAO.kicad_sym")(options "")(descr ""))
   (lib (name "MOUDLE-SEEEDUINO-XIAO")(type "KiCad")(uri "C:/Users/tynaa/Downloads/Seeeduino-xiao-rp2040-KiCAD-Library (3)/Seeeduino-xiao-rp2040-KiCAD-Library/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "OPL")(type "KiCad")(uri "C:/Users/tynaa/Downloads/OPL_Kicad_Library-master (1)/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
 )
