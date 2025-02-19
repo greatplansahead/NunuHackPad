@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "C:/Users/tynaa/Downloads/OPL_Kicad_Library-master (1)/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/tynaa/OneDrive/Documents/GitHub/MyHackPad/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/tynaa/OneDrive/Documents/GitHub/MyHackPad/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
