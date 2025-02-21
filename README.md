@@ -1,19 +1,6 @@
 # MyHackPad
 
-Making a macropad. Following this guide: https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-3---creating-the-mcu-schematic
-
-3x3
-or 4x2
+I tired making a macropad. The pcb looks nice and the case works however, i had some trouble with the firmware. the kmk works only for the matrix and the qmk could not pass the lint check.
 
 
-
-keypad ideas:
-1 - Spotify
-2 - Github
-3 - Drive
-4 - Calendar
-5 - Bible App
-6 - All Key
-7 - logging in
-
-Minimalist design, maybe make special keycaps
+it is a 3x3 macro pad with an encoder and 4 neopixels
