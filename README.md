@@ -5,14 +5,14 @@ I tried making a macropad. it was my first time making a PCB, designing a case a
 
 it is a 3x3 macropad with an encoder and 4 neopixels
 BOM:
-8x MX-Style switches
-8x Through-hole 1N4148 Diodes
-8x Blank DSA keycaps(any color)
-1x EC11 Rotary encode
-4x SK6812 MINI-E LEDs
-4x M3x16mm screws
-4x M3 hex nuts
-3D printed case(any color)
+- 8x MX-Style switches
+- 8x Through-hole 1N4148 Diodes
+- 8x Blank DSA keycaps(any color)
+- 1x EC11 Rotary encode
+- 4x SK6812 MINI-E LEDs
+- 4x M3x16mm screws
+- 4x M3 hex nuts
+- 3D printed case(any color)
 
 here are some pictures!
 
